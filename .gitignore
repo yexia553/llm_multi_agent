@@ -1,6 +1,6 @@
 node_modules/
-docs/.vitepress/dist/assets/
-docs/.vitepress/dist/blogs/
-docs/.vitepress/dist/*.html
-docs/.vitepress/dist/*.json
-docs/.vitepress/cache/
+# docs/.vitepress/dist/assets/
+# docs/.vitepress/dist/blogs/
+# docs/.vitepress/dist/*.html
+# docs/.vitepress/dist/*.json
+# docs/.vitepress/cache/
