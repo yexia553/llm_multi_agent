@@ -4,3 +4,4 @@ node_modules/
 # docs/.vitepress/dist/*.html
 # docs/.vitepress/dist/*.json
 # docs/.vitepress/cache/
+test
