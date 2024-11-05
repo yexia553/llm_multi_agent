@@ -7,10 +7,13 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
-    logo: '/icon.jpg',
+    logo: '/docs/icon.jpg',
     footer: {
     //   message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present <a href="https://panzhixiang.com" target="_blank">PANZHIXIANG</a>'
+    },
+    search: {
+      provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
     // nav: [

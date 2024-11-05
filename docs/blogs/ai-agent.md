@@ -4,9 +4,10 @@ editLink: true
 description: 这篇博客是对李飞飞教授等发表的《Agent AI Surveying the Horizons of Multimodal Interaction》论文中关于 Agent 应用部分的简单概括
 layout: doc
 ---
+# Agent AI：开启智能应用新时代
 
-> 这篇博客是对李飞飞教授等发表的《Agent AI: Surveying the Horizons of Multimodal Interaction》论文中关于 Agent 应用部分的简单概括，原文在[这里](https://arxiv.org/abs/2401.03568)
->
+> 这篇博客是对李飞飞教授等发表的《Agent AI: Surveying the Horizons of Multimodal Interaction》论文中关于 Agent 应用部分的简单概括，原文在[这里](https://arxiv.org/abs/2401.03568)  
+> 博客内容由腾讯的[ima copilot](https://ima.qq.com/)根据论文内容生成
 > 下面是一张论文的脑图，仅供参考
 >
 > ![AI Agent 脑图](../images/ai-agent.png)
